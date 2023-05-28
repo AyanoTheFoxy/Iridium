@@ -1,2 +1,1 @@
-# Iridium
-A mobile map editor
+the trith version of iridium now with a new UI
